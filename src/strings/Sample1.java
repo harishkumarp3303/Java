@@ -1,4 +1,4 @@
-package Strings;
+package strings;
 
 public class Sample1 {
     public static void main(String[] args) {
@@ -23,6 +23,7 @@ public class Sample1 {
         String s4=new String("kumar");
 
         System.out.println(s3==s4);
+        
 
     }
 }
