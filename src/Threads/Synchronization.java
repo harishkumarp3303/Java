@@ -1,4 +1,5 @@
-package com.designpatterns;
+package Threads;
+
 
 public class Synchronization {
 	
